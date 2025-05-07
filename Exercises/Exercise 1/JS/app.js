@@ -1,0 +1,3 @@
+function feetToInches(feet, inches) {
+    
+}
